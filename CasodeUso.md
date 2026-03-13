@@ -1,9 +1,9 @@
 # Contexto y Antecedentes
 PayCol es una fintech colombiana fundada en 2019 que ofrece una app de pagos digitales con 4 millones de usuarios activos. Procesa un promedio de 2 millones de transacciones diarias, con picos de hasta 8.000 transacciones por segundo durante eventos como el Black Friday o fechas de pago de nómina.
 En el último año, PayCol perdió COP $4.200 millones por fraude (tarjetas clonadas, account takeover, fraude de comercios). Los sistemas de reglas actuales tienen una tasa de detección del 62% con un 18% de falsos positivos, bloqueando transacciones legítimas y generando fricción innecesaria para los usuarios.
-**Problema a resolver**
+## **Problema a resolver**
 Diseñar un sistema de detección de fraude en tiempo real que evalúe cada transacción en menos de 200ms, con una tasa de detección objetivo del 90% y falsos positivos inferiores al 3%, sin interrumpir la experiencia del usuario.
-## Requisitos Técnicos y Restricciones
+## **Requisitos Técnicos y Restricciones**
 
 ```markdown
 | Parámetro              | Valor / Descripción                                                                 |
