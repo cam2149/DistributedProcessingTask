@@ -4,7 +4,6 @@ En el último año, PayCol perdió COP $4.200 millones por fraude (tarjetas clon
 **Problema a resolver**
 Diseñar un sistema de detección de fraude en tiempo real que evalúe cada transacción en menos de 200ms, con una tasa de detección objetivo del 90% y falsos positivos inferiores al 3%, sin interrumpir la experiencia del usuario.
 ## Requisitos Técnicos y Restricciones
-Aquí tienes la tabla de la imagen convertida a **Markdown**:
 
 ```markdown
 | Parámetro              | Valor / Descripción                                                                 |
