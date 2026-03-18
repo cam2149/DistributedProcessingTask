@@ -1,7 +1,6 @@
 # MLOps para Detección de Fraude en Tiempo Real — PayCol Fintech
 ### Caso de Uso: Arquitectura de Procesamiento Distribuido
 
-> **Rol del autor**: Experto en Data Science y Procesamiento Distribuido de Datos  
 > **Línea base**: Análisis del diagrama MLOps v2 (`MLOPS_Diagram.md`)  
 > **Fecha**: Marzo 2026  
 > **Empresa**: PayCol — Fintech colombiana, 4 millones de usuarios activos
